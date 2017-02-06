@@ -16,6 +16,7 @@ public int Sous(int a,int b)
 {
 return a-b;
 }
+//methode de multiplication
 public int Mul(int a,int b)
 {
 return a*b;
