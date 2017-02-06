@@ -12,4 +12,8 @@ public int Som(int a,int b)
 {
 return a+b;
 }
+public int Sous(int a,int b)
+{
+return a-b;
+}
 }
