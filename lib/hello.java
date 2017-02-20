@@ -3,6 +3,7 @@ public Class Hello()
 {
 private int a; 
 private int b;
+private Greeter greeter;
 public Heloo(int a,int b)
 {
 this.a= a;
